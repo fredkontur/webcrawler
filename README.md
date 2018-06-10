@@ -1,4 +1,4 @@
-Place the .html, js, and css files in your HTML directory as normal.
+Place the .html, js, image, and css files in your HTML directory as normal.
 
 The Python files should go in the cgi-bin folder in your directory and given 755 permissions. The location of the cgi-bin folder is system dependent. For Ubuntu, it is located in /usr/lib/cgi-bin.
 
